@@ -8,7 +8,7 @@
 	},
 	"id": "alphalaneous.moddevbranding",
 	"name": "Mod Developer Branding",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Alphalaneous",
 	"description": "Shows mod dev branding on their mod info",
 	"settings": {

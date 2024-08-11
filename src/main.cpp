@@ -30,7 +30,7 @@ void onImageDownloadFinish(std::string dev, CCImage* image, FLAlertLayer* alert,
 			newSprite->setID("dev-watermark"_spr);
 			newSprite->setScale(1/(4/CCDirector::sharedDirector()->getContentScaleFactor()));
 			newSprite->setAnchorPoint({1, 0});
-			newSprite->setOpacity(15);
+			newSprite->setOpacity(40);
 			if(alert && alert->m_mainLayer){
 				if(auto descriptionContainer = alert->m_mainLayer->getChildByIDRecursive("description-container")){
 					if(auto textArea = descriptionContainer->getChildByID("textarea")){
