@@ -1,0 +1,27 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "alphalaneous.moddevbranding",
+	"name": "Mod Developer Branding",
+	"version": "v1.0.0",
+	"developer": "Alphalaneous",
+	"description": "Shows mod dev branding on their mod info",
+	"settings": {
+		"preview-image": {
+			"name": "Preview Image",
+			"description": "Preview image for your mod branding in this popup (Reopen this mod to see it)",
+			"type": "path",
+			"default": ""
+		}
+	},
+	"links": {
+        "homepage": "https://twitter.com/alphalaneous",
+        "source": "https://github.com/Alphalaneous/ModDevBranding",
+        "community": "https://discord.gg/Txn2CA5dHF"
+    }
+}
